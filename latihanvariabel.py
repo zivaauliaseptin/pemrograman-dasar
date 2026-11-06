@@ -1,0 +1,8 @@
+nama = input('siapa nama anda?: ')
+kelas = input('kelas berapakah anda?: ')
+prodi = input('apa program studi yang anda ambil?: ')
+alamat = input('di mana rumah anda?: ')
+umur = input('berapakah umur anda?: ')
+hobi = input('apakah hobi anda?: ')
+cita_cita = input('apakah cita-cita anda?: ')
+print(f'nama saya {nama}, saya kelas {kelas}, di prodi {prodi}. saya dari {alamat}, saya berusia {umur}, hobi saya {hobi}, cita-cita saya menjadi {cita_cita}')
